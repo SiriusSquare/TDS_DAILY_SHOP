@@ -1,20 +1,20 @@
 [
   {
-    "name": "마츠다",
-    "tower": "엄",
-    "cost": "5",
+    "name": "Common",
+    "tower": "Legendary",
+    "cost": "",
     "currency": "Coins"
   },
   {
-    "name": "돔공연",
-    "tower": "준",
-    "cost": "5",
+    "name": "1,250",
+    "tower": "4,000",
+    "cost": "",
     "currency": "Coins"
   },
   {
-    "name": "축하해",
-    "tower": "식",
-    "cost": "5",
+    "name": "850",
+    "tower": "2,000",
+    "cost": "",
     "currency": "Coins"
   }
 ]
