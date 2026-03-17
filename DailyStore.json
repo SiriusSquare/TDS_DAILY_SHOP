@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-18 00:02:33",
+  "lastUpdated": "2026-03-18 00:05:11",
   "items": [
     {
-      "name": "Mako",
-      "tower": "DJ Booth",
+      "name": "Wonderland",
+      "tower": "Commander",
       "cost": 1250,
       "currency": "Coins"
     },
     {
-      "name": "Golden",
-      "tower": "Soldier",
-      "cost": 50000,
+      "name": "Elite",
+      "tower": "Aceelerator",
+      "cost": 4500,
       "currency": "Coins"
     },
     {
-      "name": "Golden",
-      "tower": "Pyromancer",
-      "cost": 65000,
+      "name": "Champion",
+      "tower": "Aceelerator",
+      "cost": 1250,
       "currency": "Coins"
     }
   ]
