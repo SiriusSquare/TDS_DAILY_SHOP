@@ -1,20 +1,20 @@
 [
   {
-    "name": "sadsa",
-    "tower": "saddsadsadsa",
-    "cost": "55",
+    "name": "Pirate",
+    "tower": "Hunter",
+    "cost": "5555",
     "currency": "Coins"
   },
   {
-    "name": "sadds",
-    "tower": "dsadsdsa",
-    "cost": "55",
+    "name": "Blue",
+    "tower": "Minigunner",
+    "cost": "55555",
     "currency": "Coins"
   },
   {
-    "name": "saddsa",
-    "tower": "dsadsasa",
-    "cost": "55",
+    "name": "Eggrypted",
+    "tower": "Commander",
+    "cost": "5555",
     "currency": "Coins"
   }
 ]
