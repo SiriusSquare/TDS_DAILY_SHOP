@@ -1,20 +1,20 @@
 [
   {
-    "name": "와",
-    "tower": "아시는구나",
-    "cost": "51",
+    "name": "A",
+    "tower": "E",
+    "cost": "55",
     "currency": "Coins"
   },
   {
-    "name": "샌즈",
-    "tower": "2222",
-    "cost": "521",
-    "currency": "Robux"
+    "name": "B",
+    "tower": "D",
+    "cost": "555",
+    "currency": "Coins"
   },
   {
-    "name": "언더테일",
-    "tower": "22",
-    "cost": "521",
-    "currency": "Robux"
+    "name": "C",
+    "tower": "F",
+    "cost": "5555",
+    "currency": "Coins"
   }
 ]
