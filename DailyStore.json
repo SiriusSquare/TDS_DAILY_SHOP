@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-17 23:31:35",
+  "lastUpdated": "2026-03-18 00:02:33",
   "items": [
     {
-      "name": "Umbra",
-      "tower": "Commander",
-      "cost": 1250,
-      "currency": "Coins"
-    },
-    {
-      "name": "Ghost",
+      "name": "Mako",
       "tower": "DJ Booth",
       "cost": 1250,
       "currency": "Coins"
     },
     {
-      "name": "Champion",
-      "tower": "Accelerator",
-      "cost": 1250,
+      "name": "Golden",
+      "tower": "Soldier",
+      "cost": 50000,
+      "currency": "Coins"
+    },
+    {
+      "name": "Golden",
+      "tower": "Pyromancer",
+      "cost": 65000,
       "currency": "Coins"
     }
   ]
