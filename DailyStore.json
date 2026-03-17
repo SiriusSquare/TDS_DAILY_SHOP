@@ -1,20 +1,20 @@
 [
   {
-    "name": "Pirate",
-    "tower": "Hunter",
-    "cost": "5555",
+    "name": "Golden",
+    "tower": "Golden Scout",
+    "cost": 55000,
     "currency": "Coins"
   },
   {
-    "name": "Blue",
-    "tower": "Minigunner",
-    "cost": "55555",
+    "name": "Golden",
+    "tower": "Golden Soldier",
+    "cost": 1250,
     "currency": "Coins"
   },
   {
-    "name": "Eggrypted",
-    "tower": "Commander",
-    "cost": "5555",
+    "name": "Golden",
+    "tower": "Golden Pyromancer",
+    "cost": 1250,
     "currency": "Coins"
   }
 ]
