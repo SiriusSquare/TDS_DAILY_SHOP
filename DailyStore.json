@@ -1,20 +1,20 @@
 [
   {
     "name": "Golden",
-    "tower": "Golden Scout",
-    "cost": 55000,
+    "tower": "Scout",
+    "cost": 50000,
     "currency": "Coins"
   },
   {
     "name": "Golden",
-    "tower": "Golden Soldier",
-    "cost": 1250,
+    "tower": "Soldier",
+    "cost": 50000,
     "currency": "Coins"
   },
   {
     "name": "Golden",
-    "tower": "Golden Pyromancer",
-    "cost": 1250,
+    "tower": "Pyromancer",
+    "cost": 50000,
     "currency": "Coins"
   }
 ]
