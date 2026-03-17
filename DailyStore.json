@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-18 00:05:11",
+  "lastUpdated": "2026-03-18 00:05:50",
   "items": [
     {
-      "name": "Wonderland",
+      "name": "Wonnderland",
       "tower": "Commander",
       "cost": 1250,
       "currency": "Coins"
     },
     {
-      "name": "Elite",
-      "tower": "Aceelerator",
-      "cost": 4500,
+      "name": "Champion",
+      "tower": "Accelerator",
+      "cost": 1250,
       "currency": "Coins"
     },
     {
-      "name": "Champion",
-      "tower": "Aceelerator",
-      "cost": 1250,
+      "name": "Elite",
+      "tower": "Accelerator",
+      "cost": 4500,
       "currency": "Coins"
     }
   ]
