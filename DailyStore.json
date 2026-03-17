@@ -1,20 +1,20 @@
 [
   {
-    "name": "A",
-    "tower": "E",
-    "cost": "55",
+    "name": "내가",
+    "tower": "ㄱㅈ",
+    "cost": "15",
     "currency": "Coins"
   },
   {
-    "name": "B",
-    "tower": "D",
-    "cost": "555",
+    "name": "",
+    "tower": "ㄱㅈ",
+    "cost": "521",
     "currency": "Coins"
   },
   {
-    "name": "C",
-    "tower": "F",
-    "cost": "5555",
+    "name": "ㄱㅈ",
+    "tower": "ㄱㅈ",
+    "cost": "215521",
     "currency": "Coins"
   }
 ]
