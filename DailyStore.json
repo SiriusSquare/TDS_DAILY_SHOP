@@ -1,20 +1,20 @@
 [
   {
-    "name": "오류 발생: storeData is not defined",
-    "tower": "오류 발생: storeData is not defined",
-    "cost": "2",
+    "name": "마츠다",
+    "tower": "엄",
+    "cost": "5",
     "currency": "Coins"
   },
   {
-    "name": "오류 발생: storeData is not defined",
-    "tower": "오류 발생: storeData is not defined",
-    "cost": "555",
+    "name": "돔공연",
+    "tower": "준",
+    "cost": "5",
     "currency": "Coins"
   },
   {
-    "name": "오류 발생: storeData is not defined",
-    "tower": "오류 발생: storeData is not defined",
-    "cost": "12221",
-    "currency": "Robux"
+    "name": "축하해",
+    "tower": "식",
+    "cost": "5",
+    "currency": "Coins"
   }
 ]
