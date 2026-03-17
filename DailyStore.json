@@ -1,20 +1,20 @@
 [
   {
     "name": "Mako",
-    "tower": "Dj Booth",
-    "cost": 4500,
+    "tower": "DJ Booth",
+    "cost": 1250,
     "currency": "Coins"
   },
   {
-    "name": "Umbra",
-    "tower": "Commander",
-    "cost": 4000,
+    "name": "Neon Rave",
+    "tower": "DJ Booth",
+    "cost": 1250,
     "currency": "Coins"
   },
   {
-    "name": "Champion",
-    "tower": "Accelerator",
-    "cost": 4000,
+    "name": "Plush",
+    "tower": "DJ Booth",
+    "cost": 1250,
     "currency": "Coins"
   }
 ]
