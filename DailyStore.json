@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-17 22:44:22",
+  "lastUpdated": "2026-03-17 23:31:35",
   "items": [
     {
-      "name": "Neon_Rave",
-      "tower": "DJ_Booth",
+      "name": "Umbra",
+      "tower": "Commander",
       "cost": 1250,
       "currency": "Coins"
     },
     {
-      "name": "Mako",
-      "tower": "DJ_Booth",
+      "name": "Ghost",
+      "tower": "DJ Booth",
       "cost": 1250,
       "currency": "Coins"
     },
     {
-      "name": "Neko",
-      "tower": "DJ_Booth",
+      "name": "Champion",
+      "tower": "Accelerator",
       "cost": 1250,
       "currency": "Coins"
     }
