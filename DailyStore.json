@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-18 00:05:50",
+  "lastUpdated": "2026-04-08 00:05:20",
   "items": [
     {
-      "name": "Wonnderland",
-      "tower": "Commander",
-      "cost": 1250,
+      "name": "Triumphant",
+      "tower": "Hacker",
+      "cost": 850,
       "currency": "Coins"
     },
     {
-      "name": "Champion",
-      "tower": "Accelerator",
-      "cost": 1250,
-      "currency": "Coins"
+      "name": "Mako",
+      "tower": "DJ Booth",
+      "cost": 560,
+      "currency": "Robux"
     },
     {
-      "name": "Elite",
-      "tower": "Accelerator",
-      "cost": 4500,
+      "name": "Sans Skin",
+      "tower": "Thanos Tower",
+      "cost": 3000,
       "currency": "Coins"
     }
   ]
